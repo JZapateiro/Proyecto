@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "ObjectId",
+        "id_usuario": "ObjectId",
+        "id_contenido": "ObjectId",
+        "nombre": "String",
+        "nota": "Number",
+        "estado": "String",
+        "descripcion": "String"
+    },
+    {
+        "_id": "ObjectId",
+        "titulo": "String",
+        "descripcion": "String",
+        "fuente": "String",
+        "tipo_contenido": "String",
+        "autor": "String",
+        "etiquetas": "String"
+    
+    },
+    {
+        "_id": "ObjectId",
+        "preguntas": "Number",
+        "descripcion": "String",
+        "nota": "Number",
+        "id_usuario": "ObjectId",
+        "id_contenido": "ObjectId",
+        "tiempo_limite": "Number"
+       
+    },
+    {
+        "_id": "ObjectId",
+        "nombre": "String",
+        "apellido": "String",
+        "password": "String",
+        "tipo_usuario": "String",
+        "genero": "String",
+        "telefono": "String",
+        "direccion": "String"
+      
+    }
+]
